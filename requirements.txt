@@ -1,0 +1,9 @@
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+tqdm==4.67.1
+torch==2.9.1
+torch-geometric==2.7.0
+openai==2.8.1
+python-dotenv==1.2.1
+mrmr-selection==0.2.8
